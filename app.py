@@ -42,7 +42,7 @@ app = FastAPI(
 
 BASE_URL = os.getenv(
     "BASE_URL",
-    "https://resina-video-server.onrender.com"
+    "https://nichounas.onrender.com"
 ).rstrip("/")
 
 VIDEO_DIR = "/tmp/videos"
