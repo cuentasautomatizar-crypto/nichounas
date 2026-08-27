@@ -2615,7 +2615,7 @@ def process_video_background(
             "[voice];"
 
             "[2:a]"
-            "volume=0.20"
+            "volume=0.10"
             "[bg];"
 
             "[voice][bg]"
